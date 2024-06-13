@@ -14,5 +14,8 @@
   "eslint.workingDirectories": [{ "mode": "auto" }] /* For Monorepo */,
 
   /* Others */
-  "cSpell.language": "en,en-US,en-GB"
+  "cSpell.language": "en,en-US,en-GB",
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/bossrod/Desktop/Trainings/my-react-vite-app/.github/workflows/deploy.yaml"
+  }
 }
